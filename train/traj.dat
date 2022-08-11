@@ -1,0 +1,2 @@
+#Epoch	Gen	Npop	PhenoEnvDot 	MeanErr1 	MeanErr0 	MeanDp1e0 	MeanDp0e1 	Fitness 	Wag_Fit 	Obs_Plas 	Diversity 	Ndev
+1	1	200	2.676550e-03	9.999021e-01	3.772440e-01	4.205807e-01	9.969979e-01	0.000000e+00	NaN	2.277369e-03	5.040868e+01	2.000000e+02
